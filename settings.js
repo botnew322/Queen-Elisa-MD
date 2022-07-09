@@ -36,21 +36,20 @@ global . owner  = [ '94740639288' ] // Owner number
 global . owner = [ '94711278299' ] //Change it if you like
 global . premium  = [ '94766439882' ] //Change it if you lik
 global . penguna  =  ' KAVISHKA KC' // Your name is your nam
-global . botnma    =    '💃KING Kavi ¥ Alisa 💃'// Your bot is
+global . botnma    =    '💃KING Kavi ¥ Alisa BOT💃'// Your bot is
 global . ownernma   =   'KING KAVISHKA'  //ownerna,ownername
 global . packname  =  'KAVISHKA KC' // Sticker package name 
 global.author = 'Kavishka KC' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage, මම ඔන්ලය් `` Type whatever you want inside these characters
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
 Thanks fro using...`
-// Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome =Hello Welcome !!! `
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
